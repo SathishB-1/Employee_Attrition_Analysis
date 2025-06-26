@@ -106,4 +106,4 @@ This project is open source under the MIT License.
 
 ## Dashboard Interface:
 
-![img Alt]()
+![img Alt](https://github.com/SathishB-1/Employee_Attrition_Analysis/blob/ff0b84b5169b0e1f5c105eadc1ce0cee9bffa36e/Dashborad.png)
